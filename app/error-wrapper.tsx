@@ -1,5 +1,5 @@
 "use client"; // error wrapper is a client component 
-import "./globals.css";
+
 
 import { useState } from "react";
 
